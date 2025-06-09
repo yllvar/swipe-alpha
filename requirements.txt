@@ -1,0 +1,12 @@
+pynder
+numpy
+pandas
+scikit-learn
+pypfopt
+matplotlib
+seaborn
+spacy
+textblob
+tqdm
+python-dateutil
+scipy
